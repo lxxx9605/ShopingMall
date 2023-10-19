@@ -12,7 +12,7 @@ import org.hibernate.annotations.Type;
 import java.util.List;
 
 @Entity
-@Table(name = "order")
+@Table(name = "`order`")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
