@@ -1,0 +1,279 @@
+GET http://localhost:8080/orders
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-19T152238.200.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 108
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 2,
+      "qty": 2,
+      "price": "10",
+      "name": "prd2"
+    }
+  ]
+}
+
+<> 2023-10-19T152216.200.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 195
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 1,
+      "qty": 21,
+      "price": "11",
+      "name": "prd1"
+    },
+    {
+      "id": 2,
+      "qty": 2,
+      "price": "10",
+      "name": "prd2"
+    }
+  ]
+}
+
+<> 2023-10-19T152208.200.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-19T152144.200.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-19T134418.200.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-19T133158.406.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-19T133048.500.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-18T235838.500.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-18T234834.500.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-18T234154.500.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-18T234035.500.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-18T233837.500.json
+
+###
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+Content-Length: 109
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "products": [
+    {
+      "id": 11,
+      "qty": 2,
+      "price": "11",
+      "name": "prd1"
+    }
+  ]
+}
+
+<> 2023-10-18T231558.500.json
+
+###
+
